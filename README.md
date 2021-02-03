@@ -1,2 +1,2 @@
 # git3
-*_shaiam_*
+**_shaiam_**
