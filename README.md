@@ -1,5 +1,10 @@
 # git3
 **_shaiam_**
 | name | age |
-|______|____|
-| shaima | 20  |
+|------|-----|
+| shaima | 20|
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+
