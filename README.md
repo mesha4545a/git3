@@ -1,7 +1,5 @@
 # git3
 **_shaiam_**
-| name | age | 
-
+| name | age|
 |______|____|
-
-|shaima|20|
+|shaima|20  |
